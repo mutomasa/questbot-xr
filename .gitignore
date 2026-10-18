@@ -1,0 +1,28 @@
+# Unity
+unity/**/[Ll]ibrary/
+unity/**/[Tt]emp/
+unity/**/[Oo]bj/
+unity/**/[Ll]ogs/
+unity/**/[Bb]uild/
+unity/**/[Bb]uilds/
+unity/**/[Uu]ser[Ss]ettings/
+*.apk
+*.aab
+
+# ROS 2 / colcon
+ros2_ws/build/
+ros2_ws/install/
+ros2_ws/log/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Secrets
+.env
+*.keystore
